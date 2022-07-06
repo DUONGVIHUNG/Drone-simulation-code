@@ -27,9 +27,14 @@
 
 　また，羽根のモデルは以下の図に示す．
  
- #　図2．羽根のモデル
+ # 図2．羽根のモデル
  
  ![propeller](propeller model.png)
+ 
+ そして，クワットローターに作用された力(空気抵抗も配慮)は以下の図に示す．
+ 
+ ![force](lift force general.png)
+ 
 
 **Step 1:**
 
