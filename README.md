@@ -23,6 +23,8 @@
 
 ![drone model](model8.png)
 
+ここで仮想マニピュレータは単に機械の自由度を表すための数学的に想像したマニピュレータなので，質量のないものである．
+
 **Step 1:**
 
 
@@ -58,3 +60,23 @@ Test2から計算の結果を用いて，シミュレーションのためMATLAB
 
 
 上記の運動方程式のシミュレーションは成功できれば，次に，PIDや現代制御理論など選び，クワットローターのモデルに導入し，MATLABのSimulink機能を用いて，新たなシミュレーションを作成(予定)
+
+**５. 研究の進歩**
+
+現在，まだ　Step1まで進む．
+
+**6. 考慮**
+現在まで，計算アルゴリズムは公式化なので，本当に計算の負担が軽減すると感じる．特にMATLABを使用するとき，ほぼ行列計算を利用するので，大変便利である．
+
+**7. 参考文献**
+
+(1) Julien Amar, Kenji Nagase (2020)　「Modelling, Control, and Optimization of Tree-type Robotic system using exponential coordinates」, chapter 2, pp 46-50，和歌山大学.
+
+(2) Jose M. Pardos-Gotor (2021)「 Screw theory in robotics」, CRC Press
+
+̣(3) R. M. Murray, Z. Li, S. S. Sastry, 「A introduction to robotic manipulation」, CRC Press
+
+̣(4)  Quadrotor Helicopter Flight Dynamics and Control: Theory and Experiment: G. M. Hoffmann,H. Huang, S. L. Waslander, C. J. Tomlin, pp7-8
+
+(5) 生田　輝 (2021)『2021 年度卒業論文』「指数座標を用いた倒立二輪車両のモデル化と制御」和歌山大学，pp 3-9
+ 
