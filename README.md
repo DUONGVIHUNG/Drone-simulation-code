@@ -85,4 +85,5 @@ Test2から計算の結果を用いて，シミュレーションのためMATLAB
 ̣(4)  Quadrotor Helicopter Flight Dynamics and Control: Theory and Experiment: G. M. Hoffmann,H. Huang, S. L. Waslander, C. J. Tomlin, pp7-8
 
 (5) 生田　輝 (2021)『2021 年度卒業論文』「指数座標を用いた倒立二輪車両のモデル化と制御」和歌山大学，pp 3-9
+
  
