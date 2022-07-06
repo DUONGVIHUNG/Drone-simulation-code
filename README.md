@@ -28,7 +28,7 @@
 　また，羽根のモデルは以下の図に示す．
  
  #　図2．羽根のモデル
- ![propeller]()
+ ![propeller](propeller model.png)
 
 **Step 1:**
 
