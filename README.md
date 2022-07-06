@@ -38,6 +38,11 @@
  
  ![drone force](force.png)
  
+ ここで，
+ 
+ 
+ **Fx,Fy,Fz**は空気抵抗力
+ 
 
 **Step 1:**
 
