@@ -29,13 +29,13 @@
  
  # 図2．羽根のモデル
  
- ![drone propeller] (propeller model.png)
+ ![drone propeller](propeller model.png)
  
  そして，クワットローターに作用された力(空気抵抗も配慮)は以下の図に示す．
  
  # 図3.　クワットローターに作用される力
  
- ![drone force] (lift force general.png)
+ ![drone force](lift force general.png)
  
 
 **Step 1:**
